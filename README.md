@@ -1,6 +1,6 @@
 # Identicon
 ##Simple Application to learn a few Elixir concepts 
-##The application geneartes Identicons 
+##The application generates Identicons 
 **TODO: Add description**
 
 ## Installation
